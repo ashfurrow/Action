@@ -6,6 +6,11 @@ Current master
 
 - Nothing yet!
 
+1.2.1
+-----
+
+- Relaxes dependency requirements.
+
 1.0.0
 -----
 
